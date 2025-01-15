@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Haromszog.cs" />
+    <Compile Include="Negyszog.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Teglalap.cs" />
+    <Compile Include="Telek.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
